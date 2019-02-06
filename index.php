@@ -7,11 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
+        
         <title></title>
     </head>
     <body>
         <?php
-        echo "Hello, World";
+        Include_once('startbootstrap-resume-gh-pages\CV.html')
         ?>
     </body>
 </html>
