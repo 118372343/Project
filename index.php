@@ -12,7 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        Include_once('startbootstrap-resume-gh-pages\CV.html')
+        include_once('CV.html')
         ?>
     </body>
 </html>
